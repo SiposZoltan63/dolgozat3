@@ -1,0 +1,7 @@
+C:\Users\siposz\Gitwork\sz3\bin\Debug\sz3.exe.config
+C:\Users\siposz\Gitwork\sz3\bin\Debug\sz3.exe
+C:\Users\siposz\Gitwork\sz3\bin\Debug\sz3.pdb
+C:\Users\siposz\Gitwork\sz3\obj\Debug\sz3.csproj.AssemblyReference.cache
+C:\Users\siposz\Gitwork\sz3\obj\Debug\sz3.csproj.CoreCompileInputs.cache
+C:\Users\siposz\Gitwork\sz3\obj\Debug\sz3.exe
+C:\Users\siposz\Gitwork\sz3\obj\Debug\sz3.pdb
